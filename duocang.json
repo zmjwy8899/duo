@@ -19,7 +19,7 @@
 
 { "url": "https://raw.githubusercontent.com/zmjwy8899/duo/main/lib/api.json", "name": "夜猫子" },
 
-{ "url": "clan://localhost/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://raw.githubusercontent.com/zmjwy8899/zmj/main/api.json", "name": "少儿频道" },
 
 { "url": "https://raw.githubusercontent.com/zmjwy8899/one/main/jars/api.json", "name": "菜妮丝" },
 
