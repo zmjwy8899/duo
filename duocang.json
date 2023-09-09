@@ -1,7 +1,7 @@
 
 { "urls": [{ "url": "https://raw.githubusercontent.com/zmjwy8899/three/main/json/api.json", "name": "饭太硬" },
 
-{ "url": "clan://localhost/tvboxqq/小米/api.json", "name": "小米" },
+{ "url": "https://raw.githubusercontent.com/zmjwy8899/zmj1/main/api.json", "name": "小米" },
 
 { "url": "https://raw.githubusercontent.com/zmjwy8899/five/main/json/api.json", "name": "肥猫" },
 
