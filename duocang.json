@@ -1,26 +1,26 @@
 
-{ "urls": [{ "url": "https://raw.githubusercontent.com/zmjwy8899/three/main/json/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/three@main/json/api.json", "name": "饭太硬" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/zmj1/main/api.json", "name": "小米" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/zmj1@main/api.json", "name": "小米" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/five/main/json/api.json", "name": "肥猫" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/five@main/json/api.json", "name": "肥猫" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/two/main/api.json", "name": "道长js" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/two@main/api.json", "name": "道长js" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/six/main/api.json", "name": "高天流云js" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/six@main/api.json", "name": "高天流云js" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/se/main/api.json", "name": "高天流云XYQ" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/se@main/api.json", "name": "高天流云XYQ" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/ei/main/api.json", "name": "荷城茶秀" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/ei@main/api.json", "name": "荷城茶秀" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/four/main/json/api.json", "name": "多多" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/four@main/json/api.json", "name": "多多" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/nine/main/api.json", "name": "南风" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/nine@main/api.json", "name": "南风" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/duo/main/lib/api.json", "name": "夜猫子" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/duo@main/lib/api.json", "name": "夜猫子" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/zmj/main/api.json", "name": "少儿频道" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/zmj@main/api.json", "name": "少儿频道" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/one/main/jars/api.json", "name": "菜妮丝" },
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/one@main/jars/api.json", "name": "菜妮丝" },
 
-{ "url": "https://raw.githubusercontent.com/zmjwy8899/ten/main/api.json", "name": "巧儿" }]}
+{ "url": "https://cdn.jsdelivr.net/gh/zmjwy8899/ten@main/api.json", "name": "巧儿" }]}
