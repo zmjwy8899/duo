@@ -15,7 +15,7 @@
 
 { "url": "https://raw.githubusercontent.com/zmjwy8899/four/main/json/api.json", "name": "多多" },
 
-{ "url": "clan://localhost/tvboxqq/南风/api.json", "name": "南风" },
+{ "url": "https://raw.githubusercontent.com/zmjwy8899/nine/main/api.json", "name": "南风" },
 
 { "url": "https://raw.githubusercontent.com/zmjwy8899/duo/main/lib/api.json", "name": "夜猫子" },
 
