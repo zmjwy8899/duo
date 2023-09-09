@@ -17,7 +17,7 @@
 
 { "url": "clan://localhost/tvboxqq/南风/api.json", "name": "南风" },
 
-{ "url": "clan://localhost/tvboxqq/夜猫子/api.json", "name": "夜猫子" },
+{ "url": "https://raw.githubusercontent.com/zmjwy8899/duo/main/lib/api.json", "name": "夜猫子" },
 
 { "url": "clan://localhost/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
 
