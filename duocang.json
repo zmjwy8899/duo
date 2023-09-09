@@ -13,7 +13,7 @@
 
 { "url": "clan://localhost/tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
 
-{ "url": "clan://localhost/tvboxqq/多多/api.json", "name": "多多" },
+{ "url": "https://raw.githubusercontent.com/zmjwy8899/four/main/json/api.json", "name": "多多" },
 
 { "url": "clan://localhost/tvboxqq/南风/api.json", "name": "南风" },
 
