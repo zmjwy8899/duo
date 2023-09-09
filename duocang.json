@@ -7,7 +7,7 @@
 
 { "url": "https://raw.githubusercontent.com/zmjwy8899/two/main/json/api.json", "name": "道长js" },
 
-{ "url": "clan://localhost/tvboxqq/高天流云js/api.json", "name": "高天流云js" },
+{ "url": "https://raw.githubusercontent.com/zmjwy8899/six/main/api.json", "name": "高天流云js" },
 
 { "url": "clan://localhost/tvboxqq/高天流云XYQ/api.json", "name": "高天流云XYQ" },
 
