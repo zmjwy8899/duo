@@ -3,7 +3,7 @@
 
 { "url": "clan://localhost/tvboxqq/小米/api.json", "name": "小米" },
 
-{ "url": "clan://localhost/tvboxqq/肥猫/api.json", "name": "肥猫" },
+{ "url": "https://raw.githubusercontent.com/zmjwy8899/five/main/json/api.json", "name": "肥猫" },
 
 { "url": "https://raw.githubusercontent.com/zmjwy8899/two/main/json/api.json", "name": "道长js" },
 
