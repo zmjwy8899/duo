@@ -1,11 +1,13 @@
 {
-	"key": "csp_香蕉",
-	"name": "🌸┃香蕉┃直播",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "./lib/香蕉直播.json"
-},
-{
+  "warningText": "焦哥最酷提醒：每次使用前记得长按主页刷新接口",
+  "sites": [
+    {
+      "key": "csp_香蕉",
+      "name": "🌸┃香蕉┃直播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/香蕉直播.json"
+}
